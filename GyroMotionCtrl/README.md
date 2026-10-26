@@ -6,10 +6,11 @@ A creative software integration project that transforms a standard smartphone in
 
 ## ✨ Features
 
-* **Hardware-Free Prototyping:** Uses a smartphone's existing IMU sensors instead of purchasing separate hardware sensor modules[cite: 1].
-* **Real-Time Data Streaming:** Transmits sensor coordinates and tilt data over a local IP network via UDP/TCP[cite: 1].
-* **Cross-Platform Bridge:** A custom receiver script on the computer catches the incoming mobile data and maps it into keyboard/emulator inputs.
-* **Low-Latency Wireless Control:** Smooth responsiveness for controlling retro games wirelessly.
+- **Hardware-Free Prototyping:** Uses a smartphone's existing IMU sensors instead of purchasing separate hardware sensor modules[cite: 1].
+- **Real-Time Data Streaming:** Transmits sensor coordinates and tilt data over a local IP network via UDP/TCP[cite: 1].
+- **Sensor-to-Input Conversion:** Converts raw phone gyroscope and accelerometer motion data directly into simulated joystick movements and button presses.
+- **Cross-Platform Bridge:** A custom receiver script on the computer catches the incoming mobile data and maps it into keyboard/emulator inputs.
+- **Low-Latency Wireless Control:** Smooth responsiveness for controlling retro games wirelessly.
 
 ## ⚙️ Setup & Installation
 
