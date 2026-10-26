@@ -1,6 +1,6 @@
-# 🎮 GyroLink: Smartphone Motion Controller
+# 🎮 GyroMotionCtrl
 
-A creative software integration project that transforms a standard smartphone into a wireless motion-tracking gamepad[cite: 1]. This project bypasses the need for physical hardware microcontrollers (like Arduino or ESP32) by leveraging a phone's built-in gyroscope, accelerometer, and local Wi-Fi networking to control desktop games like Super Mario[cite: 1].
+A creative software integration project that transforms a standard smartphone into a wireless motion-tracking gamepad. This project bypasses the need for physical hardware microcontrollers (like Arduino or ESP32) by leveraging a phone's built-in gyroscope, accelerometer, and local Wi-Fi networking to control desktop games like Super Mario[cite: 1].
 
 ---
 
