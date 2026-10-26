@@ -28,7 +28,7 @@ Follow these steps to connect your smartphone sensors to your computer:
 * **On Mac / Linux:** 
   1. Open your terminal.
   2. Type `ifconfig` (or `ip a` on Linux) and press Enter.
-  3. Note down your local IP address.
+  3. Note down your local IPv4 address.
 
 ### 3. Configure the Mobile App
 1. Open your sensor streaming app on your smartphone.
